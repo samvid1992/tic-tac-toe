@@ -1,7 +1,7 @@
 # Tic-tac-toe
 
 
-This is repository for very simple, easy to understand tic-tac-toe game using MinMax Artificial Algorithm. 
+This is repository for very simple, easy to understand tic-tac-toe game using MinMax Artificial intelligence Algorithm. 
 
 
 ## Prerequisite 
